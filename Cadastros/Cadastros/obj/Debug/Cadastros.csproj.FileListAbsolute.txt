@@ -1,0 +1,12 @@
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.CLIENTES.resources
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.FUNCIONARIO.resources
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.MENU.resources
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\bin\Debug\Cadastros.exe.config
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\bin\Debug\Cadastros.exe
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\bin\Debug\Cadastros.pdb
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.exe
+C:\Users\Aluno\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.pdb
